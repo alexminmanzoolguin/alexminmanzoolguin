@@ -1,4 +1,4 @@
-![Logo](/hola.png)
+![Logo](/ALEXYAZMINMANZOOLGUIN.png)
 ## 🌺 MY NAME IS ALEX YAZMIN MANZO OLGUIN 
 > 👨‍💻 I'm a frontend developer
 👩‍🎓 Bachelor of Computer Systems Engineering
