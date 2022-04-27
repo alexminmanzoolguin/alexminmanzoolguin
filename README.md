@@ -28,9 +28,9 @@ Currently as an intern at the Anacondas SW company in the development area in th
 ![grafica](/TECNOLOGIAS.png)
 
 ## 🔗 Links
-[![portfolio]()
-[![linkedin](https://www.linkedin.com/in/yazmin-manzo-olguin-abb111217/)
-[![Instagram](https://www.instagram.com/alexmanzoolguin/)
+![portfolio]()
+![linkedin](https://www.linkedin.com/in/yazmin-manzo-olguin-abb111217/)
+![Instagram](https://www.instagram.com/alexmanzoolguin/)
 
 
 ![Logo](/logo.png)
