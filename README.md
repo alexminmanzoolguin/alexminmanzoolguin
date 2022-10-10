@@ -2,13 +2,15 @@
 ## 🌺 MY NAME IS ALEX YAZMIN MANZO OLGUIN 
 > 👨‍💻 I'm a frontend developer
 👩‍🎓 Bachelor of Computer Systems Engineering
->💻 Preparing for the first job as a developer in the react js framework
+>💻 Preparing for the first job as a developer 
 
 ### 👩‍💼 About Me
 Currently graduated from the powerful computer systems engineering career at TESOEM.
 Preparing myself as a developer in the frontend area to get my first job at HackWomen in the tech at hackademy and virtual innovation. 
 Certified in az900 in azure fundamentals. Preparing for the certification in technical support in google. 
 Currently as an intern at the Anacondas SW company in the development area in the jr position for 3 months and starting now in the scrum area.
+Previously, he worked at commercial ids as a trainee in mainframe and cobol for 4 months. 
+I am currently working at manpowergroup as an intern in java with cobol.
 
 ### 🎮 Free Times
 👾play video games (halo 2, free fire and call of duty). 
@@ -17,8 +19,8 @@ Currently as an intern at the Anacondas SW company in the development area in th
 > 😴 To sleep.
 
 ### 🔮 Random Data
-> 🎂 22 years old (22/09/1999)
-👩‍🏫 2 certifications (git with github and az900)
+> 🎂 23 years old (22/09/1999)
+👩‍🏫 7 certifications (git with github, az900 and technical support by google)
 > 🗂 26 projects and 2 active projects as jr
 🕹 2 hackthathon (lant talent and virtual innovation)
 
@@ -29,6 +31,7 @@ Currently as an intern at the Anacondas SW company in the development area in th
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+![cobol](https://img.shields.io/badge/cobol-cobol-green)
 ###  Frameworks
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)
