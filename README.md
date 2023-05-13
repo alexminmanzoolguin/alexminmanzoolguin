@@ -1,28 +1,36 @@
 ![Logo](/ALEXYAZMINMANZOOLGUIN.png)
 ## 🌺 MY NAME IS ALEX YAZMIN MANZO OLGUIN 
-> 👨‍💻 I'm a frontend developer
+> 👨‍💻 I'm a frontend developer and and currently backend developer jr
 👩‍🎓 Bachelor of Computer Systems Engineering
->💻 Preparing for the first job as a developer 
+>💻 currently a collaborator at manpowergroup as a jr developer analyst trainee
 
 ### 👩‍💼 About Me
 Currently graduated from the powerful computer systems engineering career at TESOEM.
-Preparing myself as a developer in the frontend area to get my first job at HackWomen in the tech at hackademy and virtual innovation. 
+Preparing myself as a developer in the fullstack area to get my first job at HackWomen in the tech at hackademy, virtual innovation and tecnolchicas pro. 
 Certified in az900 in azure fundamentals. Preparing for the certification in technical support in google. 
 Currently as an intern at the Anacondas SW company in the development area in the jr position for 3 months and starting now in the scrum area.
 Previously, he worked at commercial ids as a trainee in mainframe and cobol for 4 months. 
 I am currently working at manpowergroup as an intern in java with cobol.
 
 ### 🎮 Free Times
-👾play video games (halo 2, free fire and call of duty). 
-> 🗡the twich platform as a mood or follower. 
-🐶 Spending time with my dog´s peluches and ruglas also my family. 
+>👾play video games (halo 2, free fire and call of duty). 
+
+> 🗡the twich platform as a mood or follower.
+ 
+>🐶 Spending time with my dog´s peluches and ruglas also my family. 
+
 > 😴 To sleep.
+
+> go out on an adventure on the scooter 
 
 ### 🔮 Random Data
 > 🎂 23 years old (22/09/1999)
-👩‍🏫 7 certifications (git with github, az900 and technical support by google)
+
+>👩‍🏫 7 certifications (git with github, az900 and technical support by google)
+
 > 🗂 26 projects and 2 active projects as jr
-🕹 2 hackthathon (lant talent and virtual innovation)
+
+>🕹 2 hackthathon (lant talent and virtual innovation)
 
 ![imagen](/IMG20220422143615.jpg)
 ## 🛠 Skills
