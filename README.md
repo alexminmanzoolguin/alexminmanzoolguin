@@ -19,12 +19,10 @@ I am currently working at manpowergroup as an intern in java with cobol.
  
 >🐶 Spending time with my dog´s peluches and ruglas also my family. 
 
-> 😴 To sleep.
-
 > go out on an adventure on the scooter 
 
 ### 🔮 Random Data
-> 🎂 23 years old (22/09/1999)
+> 🎂 24 years old (22/09/1999)
 
 >👩‍🏫 7 certifications (git with github, az900 and technical support by google)
 
